@@ -1,0 +1,33 @@
+.heading {
+  text-align: center;
+}
+
+.card-parent-div {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.card {
+  margin: 20px;
+}
+
+.footer {
+  background-color: cadetblue;
+  padding: 10px;
+}
+
+.footer-items {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.li {
+  list-style: none;
+}
+
+.data {
+  display: flex;
+  justify-content: space-between;
+}
